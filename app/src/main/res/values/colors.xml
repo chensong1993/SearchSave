@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1570ec</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="orange">#ffb359</color>
+    <color name="bluexx">#808ae4</color>
+    <color name="blue">#1570ec</color>
+    <color name="bluer">#0c73ff</color>
+    <color name="hui3">#f7f7f7</color>
+    <color name="orangex">#ff9e57</color>
+    <color name="green">#0b9d0b</color>
+    <color name="bluex">#71cdf8</color>
+    <color name="bluemin">#cbebfa</color>
+    <color name="hui">#ecebeb</color>
+    <color name="hui1">#666666</color>
+    <color name="hui2">#999999</color>
+    <color name="hui4">#a8a8a8</color>
+    <color name="hui5">#959595</color>
+    <color name="hui6">#f7f7f7</color>
+    <color name="hui7">#cccccc</color>
+    <color name="hui8">#b6b6b6</color>
+    <color name="hui9">#f7f8fa</color>
+    <color name="hui10">#ecf0f5</color>
+    <color name="black">#0d0d0d</color>
+    <color name="red">#d71820</color>
+    <color name="violet">#9a6ff0</color>
+    <color name="violets">#8a83a4</color>
+    <color name="bantouming">#B3FFFFFF</color>
+    <color name="window_background">#EBEBEB</color>
+
+    <color name="subscribe_item_focused_stroke">#ffd9d9d9</color>
+    <color name="subscribe_item_drag_stroke">#ffd2d2d2</color>
+    <color name="subscribe_item_drag_bg">#fff5f5f5</color>
+    <color name="subscribe_item_selected_bg">#ffffffff</color>
+    <color name="subscribe_item_selected_stroke">#178FE6</color>
+    <color name="subscribe_item_disabled_bg">#ffefefef</color>
+    <color name="subscribe_item_disabled_stroke">#ffd9d9d9</color>
+    <color name="subscribe_item_pressed_bg">#fff9f9f9</color>
+    <color name="subscribe_item_pressed_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_normal_bg">#fff5f5f5</color>
+    <color name="subscribe_item_normal_stroke">#ffcdcdcd</color>
+    <color name="subscribe_seperate_line">#ffcdcdcd</color>
+
+    <color name="color1">#d7000f</color>
+    <color name="color2">#e91e63</color>
+    <color name="color3">#9C27B0</color>
+    <color name="color4">#673AB7</color>
+    <color name="color5">#3F51B5</color>
+    <color name="color6">#2196F3</color>
+    <color name="color7">#00BCD4</color>
+    <color name="color8">#009688</color>
+    <color name="color9">#5AB963</color>
+    <color name="color10">#00bbccdd</color>
+    <color name="color11">#FFEB3B</color>
+</resources>
